@@ -1,16 +1,9 @@
 ### Hi there 👋 waiting to update this readme file
 
 
-![2](https://user-images.githubusercontent.com/58667227/165878143-6cd67797-a137-4c7a-ae0a-a4e628ba69a8.gif)
 
 
-
-
-
-
-
-
-
+https://user-images.githubusercontent.com/58667227/165878378-b5c846cc-1404-42a2-8024-5eac04754a47.mp4
 
 
 <!--
