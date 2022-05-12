@@ -1,9 +1,9 @@
 
 
+![Banner](https://user-images.githubusercontent.com/58667227/168011984-073f6954-47e1-48c2-9071-9ea60a3502ad.gif)
 
-![Glitchabnner](https://user-images.githubusercontent.com/58667227/168009447-74402e55-e942-4d36-92fc-347c85cbc826.gif)
 
-### Hi visitor 👋 Im working on an update for this readme file , just be patient
+### Hi visitor 👋 I'm currently working on an update for this readme file , just be patient
 
 
 
