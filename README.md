@@ -1,10 +1,10 @@
-### Hi there 👋 waiting to update this readme file
+### Hi there 👋 working on an update for this readme file , just patient
+
+
+![Glitchabnner](https://user-images.githubusercontent.com/58667227/168009447-74402e55-e942-4d36-92fc-347c85cbc826.gif)
 
 
 
-
-
-![ban](https://user-images.githubusercontent.com/58667227/168005795-0ed2088e-4d7f-40bf-9ed5-1bcdde889566.gif)
 
 
 <!--
