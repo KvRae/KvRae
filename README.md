@@ -1,6 +1,7 @@
 
 
-![Banner](https://user-images.githubusercontent.com/58667227/168011984-073f6954-47e1-48c2-9071-9ea60a3502ad.gif)
+![My banner](https://user-images.githubusercontent.com/58667227/168013734-84993357-e74e-440a-ad77-16e21f98275a.gif)
+
 
 
 ### Hi visitor 👋 I'm currently working on an update for this readme file , just be patient
