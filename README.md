@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm KvRae</h1>
-<h4 align="center">Software developer and also an computer engineering student at ESPRIT</h4>
+<h4 align="center">Software developer and also a computer engineering student at ESPRIT</h4>
 </div>
 
 <div align="center">
