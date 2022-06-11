@@ -133,12 +133,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/KvRae/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="KvRae :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvRae&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="KvRae :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/KvRae/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KvRae&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KvRae&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
