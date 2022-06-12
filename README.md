@@ -1,7 +1,7 @@
 
 
 ![My banner](https://user-images.githubusercontent.com/58667227/168013734-84993357-e74e-440a-ad77-16e21f98275a.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7D407&lines=Hello+world+%2C+I'm+KvRae+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7D300&multiline=true&lines=Hello+World+...+I'm+KvRae)](https://git.io/typing-svg)
 <div align="center">
   
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm KvRae</h1>
