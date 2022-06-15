@@ -5,7 +5,7 @@
 <div align="center">
 <h4 align="center">I'm a software developer and also a computer engineering student at ESPRIT</h4>
 </div>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -141,6 +141,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="KvRae's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=KvRae&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karam-mannai" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/karam-mannai?trk=profile-badge">Karam Mannai</a></div>
+              
 
 <!--
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm KvRae</h1>
