@@ -52,7 +52,7 @@
   <a href="github.com/KvRae" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/KvRae/KvRae?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
-  [![Years Badge](https://badges.pufler.dev/years/KvRae)](https://badges.pufler.dev)
+  
   </p>
   <p align="center">
   <a href="github.com/KvRae" target="blank"><img align="center" 
