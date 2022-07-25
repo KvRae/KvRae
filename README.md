@@ -1,12 +1,13 @@
 
 ![Profile Banner](https://user-images.githubusercontent.com/58667227/180819539-ae3ad4c5-f808-4b24-82f7-54aad4b043cf.png)
 
-![My banner](https://user-images.githubusercontent.com/58667227/168013734-84993357-e74e-440a-ad77-16e21f98275a.gif)
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&color=15F71A&center=true&vCenter=true&width=500&lines=initializing+terminal+...;User%3A+KvRae;Password%3A+********;cd+%2Fhome%2FKvrae%2Fscripts;cat+About.txt;Hello+world!;My+name+is+karam;U+can+call+me+KvRae+on+the+net;I'm+a+Software+Engineering+Student;and+i+have+%2B8+years+learning;about+computers%2C+tech+stuff%2C;U+wana+know+more+right+%3F+;Go+get+me+on+socials+down+below+...;see+you+soon+I+gtg+...;Exit.;Closing+terminal...)](https://git.io/typing-svg)
+</div>
+
 
 <div align="center">
-<h4 align="center">I'm a software developer and also a computer engineering student at ESPRIT</h4>
+
 </div>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
