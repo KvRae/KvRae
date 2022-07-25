@@ -40,7 +40,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Profile_Stats)](https://git.io/typing-svg)
 
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/KvRae/">
@@ -58,7 +57,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Activity+Graph)](https://git.io/typing-svg)
 
-  <h2 align="center"> My current activity </h2>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="KvRae's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=KvRae&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 
