@@ -9,6 +9,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Social_Accounts)](https://git.io/typing-svg)
+<detail>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/karam-mannai-1a7a851b1/" target="blank"><img align="center"
@@ -34,6 +35,7 @@
       <br>
     </p>
   </samp>
+ </detail>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Profile_Stats)](https://git.io/typing-svg)
 
