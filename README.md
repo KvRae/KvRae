@@ -1,10 +1,6 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=663931&background=847E87&center=true&vCenter=true&width=1000&lines=Welcome+Visitor+!)](https://git.io/typing-svg)
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=663931&background=847E87&center=true&vCenter=true&width=500&lines=initializing+terminal+...;User%3A+KvRae;Password%3A+********;cd+%2Fhome%2FKvrae%2Fscripts;cat+About.txt;Hello+world!;My+name+is+karam;U+can+call+me+KvRae+on+the+net;I'm+a+Software+Engineering+Student;and+i+have+%2B8+years+learning;about+computers%2C+tech+stuff%2C;U+wana+know+more+right+%3F+;Go+get+me+on+socials+down+below+...;see+you+soon+I+gtg+...;Exit.;Closing+terminal...)](https://git.io/typing-svg)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=663931&background=847E87&center=true&vCenter=true&width=1000&lines=Snake_Eater_Grid)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -12,7 +8,8 @@
        alt="snake" /></a>
 </div>
 
-![Social  Banner](https://user-images.githubusercontent.com/58667227/180821180-98e71700-7685-42da-9ac6-e09573054936.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=663931&background=847E87&center=true&vCenter=true&width=1000&lines=Social+Acounts)](https://git.io/typing-svg)
+
 <details>
   <summary>☎️ Contact me</summary>
 <div>
