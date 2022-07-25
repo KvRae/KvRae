@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=13FF08&background=847E8700&center=true&vCenter=true&width=1000&lines=Initializing+terminal+...;User%3A+KvRae;Password%3A+********;cd+%2Fhome%2FKvrae%2Fscripts;cat+About.txt;Hello+world!;My+name+is+karam;U+can+call+me+KvRae+on+the+net;I'm+a+Software+Engineering+Student;And+I+have+%2B8+years+learning;about+computers+and+tech+stuff...;U+wana+know+more+right+%3F+;Go+get+me+on+socials+down+below+;see+you+soon+I+gtg+...;Exit.;Closing+terminal...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=663931&background=847E87&center=true&vCenter=true&width=1000&lines=Snake_Eater_Grid)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Snake_Eat_Grid)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -8,7 +8,7 @@
        alt="snake" /></a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00FF30&background=847E87&center=true&vCenter=true&width=1000&lines=Social+Acounts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Social_Accounts)](https://git.io/typing-svg)
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/karam-mannai-1a7a851b1/" target="blank"><img align="center"
@@ -35,6 +35,7 @@
     </p>
   </samp>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Profile_Stats)](https://git.io/typing-svg)
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -54,6 +55,9 @@
      <br>
   </div>    
 </details>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Activity+Graph)](https://git.io/typing-svg)
 
 <details>
   <summary>📈 Activity Graph</summary>
