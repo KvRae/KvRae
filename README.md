@@ -55,7 +55,8 @@
   </div>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Visitors+counter)](https://git.io/typing-svg) <br>
-  <img src="https://profile-counter.glitch.me/KvRae/count.svg" />
+  
+  <img align="center" src="https://profile-counter.glitch.me/KvRae/count.svg" />
 
 
 
