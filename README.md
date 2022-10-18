@@ -7,8 +7,9 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-  [![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=)Visitors+counter)](https://git.io/typing-svg) <br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Visitors_Counter)](https://git.io/typing-svg)
+   <br>
   <p align="center">
   <img  src="https://profile-counter.glitch.me/KvRae/count.svg" />
   </p>
