@@ -14,6 +14,20 @@
   <img  src="https://profile-counter.glitch.me/KvRae/count.svg" />
   </p>
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Languages_And_Tools)](https://git.io/typing-svg)
+
+  <div align="center">
+
+  ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+  </div>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Social_Accounts)](https://git.io/typing-svg)
 <detail>
     <p align="center">
