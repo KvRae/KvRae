@@ -44,9 +44,6 @@
          alt="kvrae" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://www.instagram.com/kvrae.exe/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="kvrae" height="30"/></a>
       <a href="https://wa.me/+21699026017" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="kvrae" height="30"/></a>
