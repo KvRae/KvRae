@@ -61,7 +61,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/KvRae/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvRae&langs_count=6&theme=gotham&layout=compact&hide_border=true" alt="KvRae :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvRae&langs_count=8&theme=gotham&layout=compact&hide_border=true" alt="KvRae :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/KvRae/">
