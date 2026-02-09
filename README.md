@@ -61,10 +61,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Profile_Stats)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvRae&langs_count=8&theme=gotham&layout=compact&hide_border=true" width="60%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KvRae&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KvRae&theme=gotham&hide_border=true"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KvRae&show_icons=true&theme=gotham&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KvRae&theme=gotham&hide_border=true" width="49%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvRae&layout=compact&langs_count=8&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800"
+    width="60%"
+  />
 </p>
+
