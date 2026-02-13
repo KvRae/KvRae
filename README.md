@@ -62,18 +62,23 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=KvRae&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=KvRae&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats-fast.vercel.app/api?username=KvRae&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
     width="49%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KvRae&&layout=compact&langs_count=8&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=KvRae&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    width="49%"
+  />
+  
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KvRae&layout=compact&langs_count=8&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800"
     width="49%"
   />
 </p>
+
