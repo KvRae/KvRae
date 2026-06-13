@@ -1,10 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=13FF08&background=847E8700&center=true&vCenter=true&width=1000&lines=Initializing+terminal+...;User%3A+KvRae;Password%3A+********;cd+%2Fhome%2FKvrae%2Fscripts;cat+About.txt;Hello+world!;My+name+is+karam;U+can+call+me+KvRae+on+the+net;I'm+a+Software+Engineer;And+I+have+%2B8+years+learning;about+computers+and+tech+stuff...;U+wana+know+more+right+%3F+;Go+get+me+on+socials+down+below+;see+you+soon+I+gtg+...;Exit.;Closing+terminal...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Snake_Eat_Grid)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Pacman_Eat_Grid)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="http://kvrae.github.io/">
-    <img src="https://user-images.githubusercontent.com/58667227/229009150-66bd68d8-e0c7-49ab-afb0-606d923c3e83.svg" alt="snake"/>
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph.svg">
+</picture>
   </a>
 </div>
 
