@@ -16,7 +16,10 @@
 
 
 <p align="center">
-  <img src="https://api.sefinek.net/api/v2/moecounter/@kvrae?theme=default-big" alt="Visitors">
+  <img
+    src="https://api.sefinek.net/api/v2/moecounter/@kvrae?length=6&theme=default&pixelated=true"
+    alt="Visitors Count"
+  />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Holopin_Badges)](https://git.io/typing-svg)
